@@ -1,6 +1,6 @@
 # 2025_code-in-place
 This is Liu's Final Project Submission in Stanford Code in Place
-##Blackjack Versus
+## Blackjack Versus
 ```python
 import random
 
